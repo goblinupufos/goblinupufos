@@ -6,7 +6,7 @@
 
 ## Contact information :
 
-- popescu.traian2003@gmail.com, [LinkedIn](https://www.linkedin.com/in/traian-popescu-9681b5212/), [Personal Website](https://www.traian.xyz/)
+- [Personal Website](https://www.traian.xyz/), popescu.traian2003@gmail.com, [LinkedIn](https://www.linkedin.com/in/traian-popescu-9681b5212/)
 
 ### Languages
 
