@@ -1,6 +1,6 @@
 # Hello, I am Traian, a Passionate Softweare Developer 👋
 
-- 🔭 I’m currently working as a Flutter Software Developer, developing a GNSS Surveying app.
+- 🔭 I’m currently working as a Flutter Engineer, developing a GNSS Surveying app.
 - 👯 I’m looking to collaborate on any project!
 - ⚡ Fun fact: In my secret life I am a magician. I've been a fervent fan of magic for years.
 
