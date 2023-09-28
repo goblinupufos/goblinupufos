@@ -1,6 +1,6 @@
 # Hello, I am Traian, a Passionate Softweare Developer 👋
 
-- 🔭 I’m currently working on some web projects
+- 🔭 I’m currently working as a Flutter Software Developer, developing a GNSS Surveying app.
 - 👯 I’m looking to collaborate on any project!
 - ⚡ Fun fact: In my secret life I am a magician. I've been a fervent fan of magic for years.
 
@@ -14,7 +14,7 @@
 
 ### Frameworks/Libraries/Others
 
-- Flutter, Firebase, React.js, GSAP, Git, Command Line, Babel, NPM, Node.js
+- Flutter, Firebase, React.js, GSAP, Git, Command Line, Babel, NPM
 
 ### Learning
 
@@ -22,7 +22,7 @@
 
 ### Other Skills
 
-- Romanian , English, Data Structures and Algorithms
+- Romanian, English, Data Structures and Algorithms
 
 ### Achievements
 
