@@ -1,4 +1,4 @@
-# Hello, I am Traian, a Passionate Softweare Developer 👋
+# Hello, I am Traian, a Passionate Software Developer 👋
 
 - 🔭 I’m currently working as a Flutter Engineer, developing a GNSS Surveying app.
 - 👯 I’m looking to collaborate on any project!
